@@ -1,0 +1,24 @@
+{
+    "architectures": [
+        "JibayForEmmbeddingLM"
+    ],
+    "model_type": "jibay_for_emmbedding_lm",
+    "name_or_path": "jibay-emmbedding",
+    "vocab_size": 512,
+    "hidden_size": 32,
+    "num_hidden_layers": 1,
+    "num_attention_heads": 2,
+    "head_dim": 16,
+    "intermediate_size": 64,
+    "hidden_act": "gelu",
+    "max_position_embeddings": 64,
+    "embedding_dimension": 128,
+    "pooling_mode": "mean",
+    "normalize_embeddings": true,
+    "position_embedding_type": "absolute",
+    "layer_norm_eps": 1.0000000000000000818030539140313095458623138256371021270751953125e-5,
+    "training_objective": "symmetric_infonce",
+    "temperature": 0.070000000000000006661338147750939242541790008544921875,
+    "optimizer": "AdamW",
+    "parameter_count": 31200
+}

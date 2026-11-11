@@ -1,0 +1,18 @@
+{
+    "tokenizer_class": "PreTrainedTokenizerFast",
+    "tokenizer_file": "tokenizer.json",
+    "model_max_length": 64,
+    "padding_side": "right",
+    "truncation_side": "right",
+    "clean_up_tokenization_spaces": false,
+    "add_prefix_space": false,
+    "pad_token": "<pad>",
+    "bos_token": "<s>",
+    "eos_token": "<\/s>",
+    "unk_token": null,
+    "additional_special_tokens": [
+        "<|en|>",
+        "<|fa|>"
+    ],
+    "vocab_size": 512
+}

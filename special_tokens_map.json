@@ -1,0 +1,9 @@
+{
+    "pad_token": "<pad>",
+    "bos_token": "<s>",
+    "eos_token": "<\/s>",
+    "additional_special_tokens": [
+        "<|en|>",
+        "<|fa|>"
+    ]
+}

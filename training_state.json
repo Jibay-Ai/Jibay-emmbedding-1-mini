@@ -1,0 +1,20 @@
+{
+    "step": 14388,
+    "epoch": 1,
+    "byte_offset": 0,
+    "pair_index": 0,
+    "trained_pairs": 57552,
+    "last_loss": 2.0564694868817650075243363971821963787078857421875,
+    "last_grad_norm": 5.5923663070044629108679146156646311283111572265625,
+    "status": "completed",
+    "initialized": true,
+    "parameter_count": 31200,
+    "vocab_size": 512,
+    "architecture": "JibayForEmmbeddingLM",
+    "model": "jibay-emmbedding",
+    "learning_rate": 0.0002999999999999999737189393389513725196593441069126129150390625,
+    "updated_at": "2026-11-08 16:23:02",
+    "validation_recall_at_1": 0.75,
+    "last_run_seconds": 0.2069999999999999895639035685235285200178623199462890625,
+    "last_run_steps": 0
+}
